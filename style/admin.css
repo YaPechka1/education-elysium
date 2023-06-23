@@ -1,0 +1,19 @@
+.block{
+    padding: 10px;
+}
+.hor{
+    justify-content: flex-start;
+}
+main{
+    margin-top: 0;
+    margin-bottom: auto;
+}
+.container{
+    padding: 10px 40px;
+}
+.grid33 .btn:last-child{
+    grid-column: 1/4;
+}
+.grid33 input{
+    width:100%;
+}

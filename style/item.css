@@ -1,0 +1,9 @@
+.hor{
+    justify-content: space-evenly;
+}
+.btn {
+    grid-column: 1/3;
+}
+img.block{
+    width: 33.33%;
+}

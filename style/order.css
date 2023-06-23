@@ -1,0 +1,14 @@
+img.block{
+    width: 160px;
+}
+.it{
+    display: grid;
+    gap:15px;
+    grid-template-columns: 100%;
+}
+/* .it>*{
+    align-items: flex-start;
+}
+.it>*>*{
+    margin: 0%;
+} */
